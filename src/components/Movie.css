@@ -1,0 +1,35 @@
+.movie__name {
+  display: flex;
+  font-size: 3em;
+  font-family: "Source Sans Pro", sans-serif; 
+  color: #56e6f3;
+  justify-content: center;
+}
+
+.movie__poster {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.movie__released {
+  display: flex;
+  font-size: 1em;
+  margin-top: -2em;
+  margin-bottom: 2em;
+  font-family: "Source Sans Pro", sans-serif; 
+  color: white;
+  justify-content: center;
+}
+
+#btn {
+  color: #56e6f3;  
+  padding: .5em;
+  margin-left:80%;
+  background-color:#0a418e;
+}
+
+#btn:hover {
+  box-shadow: 4px 4px gray;
+}
+
