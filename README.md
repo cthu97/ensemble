@@ -1,7 +1,6 @@
 # Ensemble Developer Code Submission
 
-# By Catherine Hu
-
+### By Catherine Hu
 Single page React Web App Created to search OMDB for movies
 
 Thank you for this opportunity Ensemble!
